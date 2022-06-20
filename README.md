@@ -1,2 +1,4 @@
 # 3D-Cube
-Animation of 3D-Cube, you can scroll around using your mouse **If you want to run the code run it on https://codepen.io/Armweak/pen/WNMWYjm as it has some pre-downloaded libraries needed (just copy paste the code) remeber to fork your own version so you dont interfere with the public template
+Animation of 3D-Cube, you can scroll around using your mouse 
+If you want to run the code, check out https://codepen.io/Armweak/full/ZErZNNN , if you would like to view the code, click the 'view in editor' option.
+However please do make a request here before changing any code
